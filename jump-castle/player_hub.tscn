@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://b0gf07cll6gqq"]
+[gd_scene format=3 uid="uid://c21s0su6df2sv"]
 
-[ext_resource type="Texture2D" uid="uid://cklfbs5csmo6g" path="res://assets/hubplayer.png" id="1_bsgcr"]
+[ext_resource type="Texture2D" path="res://assets/hubplayer.png" id="1_bsgcr"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_c7n5c"]
 atlas = ExtResource("1_bsgcr")
@@ -52,7 +52,7 @@ size = Vector2(20, 43)
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=2133398198]
 sprite_frames = SubResource("SpriteFrames_71ky3")
-frame_progress = 0.9936043
+frame_progress = 0.7387457
 
 [node name="Area2D" type="Area2D" parent="." unique_id=597485204]
 
