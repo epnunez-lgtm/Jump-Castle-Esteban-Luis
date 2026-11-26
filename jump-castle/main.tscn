@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://d2fbsjf6h835l"]
 
-[ext_resource type="Texture2D" uid="uid://ccht0ncgeso1d" path="res://character_idle-sheet.png" id="1_ig7tw"]
+[ext_resource type="Texture2D" path="res://character_idle-sheet.png" id="1_ig7tw"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0xm2m"]
 atlas = ExtResource("1_ig7tw")
@@ -73,7 +73,7 @@ size = Vector2(29.800001, 20)
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=2109306246]
 sprite_frames = SubResource("SpriteFrames_71ky3")
-frame_progress = 0.2651964
+frame_progress = 0.6098167
 
 [node name="Area2D" type="Area2D" parent="." unique_id=1225902263]
 scale = Vector2(5, 5)
